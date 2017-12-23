@@ -1,8 +1,6 @@
 # vue-ssr-webpack-template
 
-个人使用的 Vue  Server Side Render 模板(还未完成)。
-
-现在有个玄学问题就是同样的代码本地没问题，使用vue init template生成项目会导致前端渲染失败，但是 window.__INITIAL_STATE__ 渲染成功。待修复。
+个人使用的 Vue  Server Side Render 模板。
 
 ##  特性
 
